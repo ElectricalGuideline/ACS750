@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For ACS750
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ACS750	KEYWORD1
+ACS750_type	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+calibrate	KEYWORD2
+setSensitivity	KEYWORD2
+getCurrentDC	KEYWORD2
+getCurrentAC	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ACS750LCA_050B   LITERAL1
